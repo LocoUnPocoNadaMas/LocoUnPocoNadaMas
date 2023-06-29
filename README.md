@@ -27,7 +27,7 @@ This was developed for an an events and parties company
 ###### Brief explantion: you go to party, you take photos, you upload photos
 - [Personal - upload photos in party](https://locounpoconadamas.github.io/lukipix-frontend/)
 ###### and you will see the photos on tv at the party
-- [Personal - watch photos in party](https://locounpoconadamas.github.io/lukipix-tv-frontend/)
+- [Personal - watch photos in party](https://locounpoconadamas.github.io/lukipix-tv-frontend/)  
 These work with a Spring Boot backend inside a Docker container deployed in a free cloud provider (Koyeb), Azure DDBB mysql and Azure S3 for the photos. For now it is free to try.
   
 This is a frontend for a hypothetical coffee shop, but it's only the interface actually deployed so you can't good stuff if I don't have a backend working
