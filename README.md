@@ -33,7 +33,8 @@ This was developed for an events and parties company
 > These work with a Spring Boot backend inside a Docker container deployed in a free cloud provider (Koyeb), Azure DDBB mysql and Azure S3 for the photos. For now it is free to try.
   
 This is a frontend for a hypothetical coffee shop, but it's only the interface actually deployed so you can't good stuff if I don't have a backend working
-- [Personal Project - Coffe Store, it need backend deployed to work, i'm working to get a server](https://locounpoconadamas.github.io/barcito-front/)
+- [Page - Coffe Store, it need backend deployed to work, i'm working to get a server](https://locounpoconadamas.github.io/barcito-front/)
+- [Repo](https://github.com/LocoUnPocoNadaMas/barcito-front)
 
 
 ### Spring Boot 3 - REST API 
@@ -45,11 +46,12 @@ And this is the backend of the coffe shop.
 
 
 ### Unity 
- 
+  
 #### 3D Games:
 Just works in desktop, not mobile for now, I'm working on it
 - [3D Balls tutorial](https://locounpoconadamas.github.io/Unity-for-Web-Developers/)
 - [Platformer 3D tutorial](https://locounpoconadamas.github.io/3D-Platformer/)
+   
 #### 2D Games:
 - [Basic 2D RPG Multiplayer tutorial](https://locounpoconadamas.github.io/RPG-Multiplayer2D-PhPUN/)  
 
