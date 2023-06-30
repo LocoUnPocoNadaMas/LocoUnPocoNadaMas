@@ -13,16 +13,18 @@ My name is Patricio
 
 Some of my projects:
 
-## WEB Development
-
-### NEXT.js
+## WEB Development 
+ 
+### NEXT.js 
+ 
 To trying the app you can use this credentials:
 user: `user@test.com`
 pass: `password`
-- [Spotify Tutorial](https://my-spoty.vercel.app/)
+- [Spotify - Tutorial](https://my-spoty.vercel.app/)
 - [Party Guest Management - Personal Project (in progress may not currently work)](https://lukinvitaciones.vercel.app/)
 
-### Angular
+### Angular 
+ 
 This was developed for an an events and parties company
 ###### Brief explantion: you go to party, you take photos, you upload photos
 - [Personal - upload photos in party](https://locounpoconadamas.github.io/lukipix-frontend/)
@@ -31,23 +33,26 @@ This was developed for an an events and parties company
 > These work with a Spring Boot backend inside a Docker container deployed in a free cloud provider (Koyeb), Azure DDBB mysql and Azure S3 for the photos. For now it is free to try.
   
 This is a frontend for a hypothetical coffee shop, but it's only the interface actually deployed so you can't good stuff if I don't have a backend working
-- [Personal project about Coffe Store - it need backend deployed to work, i'm working to get a server](https://locounpoconadamas.github.io/barcito-front/)
+- [Personal Project - Coffe Store, it need backend deployed to work, i'm working to get a server](https://locounpoconadamas.github.io/barcito-front/)
 
 
-### Spring Boot 3 - REST API
+### Spring Boot 3 - REST API 
+ 
 And this is the backend of the coffe shop.
-- [Coffe Store - Personal project Backend (just java code)](https://github.com/LocoUnPocoNadaMas/barcito)
+- [Coffe Store - Personal project Backend (just java code)](https://github.com/LocoUnPocoNadaMas/barcito)  
 ###### I will add more public projects soon! but for now im poor and I can't pay a server to deploy my backend. If you want to see more projects, please contact me and I will show you my private repositories.
  I'm working on updating my projects to implement my backend in Azure Functions, so I can show you my projects without paying for a server. Or maybe I will refactor my backends to use NEXT.js, I don't know yet.
 
 
-### Unity
+### Unity 
+ 
 #### 3D Games:
 Just works in desktop, not mobile for now, I'm working on it
 - [3D Balls tutorial](https://locounpoconadamas.github.io/Unity-for-Web-Developers/)
 - [Platformer 3D tutorial](https://locounpoconadamas.github.io/3D-Platformer/)
 #### 2D Games:
-- [Basic 2D RPG with Multiplayer](https://locounpoconadamas.github.io/RPG-Multiplayer2D-PhPUN/)
+- [Basic 2D RPG Multiplayer tutorial](https://locounpoconadamas.github.io/RPG-Multiplayer2D-PhPUN/)  
+
 ##### Game Jam 😍
 Game developed in 10 days from may 19 to may 29 [The GameDev.tv Game Jam 2023](https://asesinodspiadado.itch.io/altereality).
 It was my first Game Jam!
