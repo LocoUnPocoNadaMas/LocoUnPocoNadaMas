@@ -11,15 +11,16 @@ My name is Patricio
 - 😄 Pronouns: what the heck is this? I'm a human or something like that...
 - ⚡ Fun fact: Engineering is easy. Just like riding a bike. Except the bike is on fire. And you're on fire. And everything is on fire. And you're a poor angel in hell.
 
-Some of my projects:
-
+Some of my projects: 
+ 
+ 
 ## WEB Development 
  
 ### NEXT.js 
  
-To trying the app you can use this credentials:
-user: `user@test.com`
-pass: `password`
+To trying the app you can use this credentials:  
+user: `user@test.com`  
+pass: `password`  
 - [Spotify - Tutorial](https://my-spoty.vercel.app/)
 - [Party Guest Management - Personal Project (in progress may not currently work)](https://lukinvitaciones.vercel.app/)
 
