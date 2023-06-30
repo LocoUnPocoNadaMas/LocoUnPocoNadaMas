@@ -9,11 +9,10 @@ My name is Patricio
 - 💬 Ask me about: nothing, I'm a noob, but I like to learn new tecnologies so tell me what's new!
 - 📫 How to reach me: telepathically, or pray for me to look at my phone (joke). Email is great!
 - 😄 Pronouns: what the heck is this? I'm a human or something like that...
-- ⚡ Fun fact: Engineering is easy. Just like riding a bike. Except the bike is on fire. And you're on fire. And everything is on fire. And you're a poor angel in hell.
-
-Some of my projects: 
- 
- 
+- ⚡ Fun fact: Engineering is easy. Just like riding a bike. Except the bike is on fire. And you're on fire. And everything is on fire. And you're a poor angel in hell.  
+  
+Some of my projects:
+  
 ## WEB Development 
  
 ### NEXT.js 
@@ -26,7 +25,7 @@ pass: `password`
 
 ### Angular 
  
-This was developed for an an events and parties company
+This was developed for an events and parties company
 ###### Brief explantion: you go to party, you take photos, you upload photos
 - [Personal - upload photos in party](https://locounpoconadamas.github.io/lukipix-frontend/)
 ###### and you will see the photos on tv at the party
