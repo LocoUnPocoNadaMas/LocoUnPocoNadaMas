@@ -13,21 +13,18 @@ My name is Patricio
   
 Some of my projects:
 
-### Unity 
-  
-#### 3D Games:
-Just works in desktop, not mobile for now, I'm working on it
-- [3D Balls tutorial](https://locounpoconadamas.github.io/Unity-for-Web-Developers/)
-- [Platformer 3D tutorial](https://locounpoconadamas.github.io/3D-Platformer/)
-   
+An example of CV using pure html, css and js. (The only complex thing is the style selector at the top right). 
+[CV with low qality and random profile image](https://locounpoconadamas.github.io/PrimerosPasosFrontend/)
 
 ##### Game Jams 😍
 
-Game developed in 10 days from may 19 to may 29, It was my first Game Jam! 
+Game developed with Unity in 10 days, It was my first Game Jam! 
 [The GameDev.tv Game Jam 2023](https://asesinodspiadado.itch.io/altereality).
 
-Another Jam but this time working together with other people 😮
+Another Jam but this time working together with other people and using Godot 😮
 [The GameDev.tv Game Jam 2024](https://kuitthegeek.itch.io/the-last-dance).
+
+
 
 
 🤗 Thanks for wasting your lifetime in watch my profile, I hope you have a good day, and if you don't, I hope you have a good night. Bye! 👋
